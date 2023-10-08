@@ -2,4 +2,7 @@ pandas
 numpy
 seaborn
 streamlit
--e .
+scikit-learn
+catboost
+xgboost
+# -e .
